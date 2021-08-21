@@ -4,11 +4,18 @@
 
 * Describe terms such as:
     * [High Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
+        - not likely your app becomes unavailable because of high SLA and resource redundancy
     * Scalability
+        - up your CPU processing power, data storage whenever necessary
     * [Elasticity](https://azure.microsoft.com/en-ca/overview/what-is-elastic-computing/)
+        - scale up or scale down as needed
+        - pay for what you use
     * Agility
+        - quickly deploy new resources
     * Fault Tolerance
+        - use redundancy to keep your data and apps safe from local disasters or server/datacenter failures
     * [Disaster Recovery](https://docs.microsoft.com/en-ca/azure/site-recovery/site-recovery-overview)
+        - use automatic backups to get back up and running after a failure
 * Describe the Principles of Economies of Scale [(PDF)](http://download.microsoft.com/download/6/e/4/6e4cb3d1-5004-4024-8d90-6c66c83c17aa/the_economics_of_the_cloud_white_paper.pdf)
 * Describe the differences between:
     * Capital Expenditure (CapEx)
