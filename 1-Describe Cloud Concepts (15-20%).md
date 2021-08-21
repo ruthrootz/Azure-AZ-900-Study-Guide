@@ -17,6 +17,7 @@
     * [Disaster Recovery](https://docs.microsoft.com/en-ca/azure/site-recovery/site-recovery-overview)
         - use automatic backups to get back up and running after a failure
 * Describe the Principles of Economies of Scale [(PDF)](http://download.microsoft.com/download/6/e/4/6e4cb3d1-5004-4024-8d90-6c66c83c17aa/the_economics_of_the_cloud_white_paper.pdf)
+
 * Describe the differences between:
     * Capital Expenditure (CapEx)
     * Operational Expenditure (OpEx)
