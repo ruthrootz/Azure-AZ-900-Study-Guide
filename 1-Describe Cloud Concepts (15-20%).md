@@ -36,7 +36,9 @@
 * Describe [Infrastructure-as-a-Service (IaaS)](https://azure.microsoft.com/en-ca/overview/what-is-iaas/)
     - the cloud provider manages the phsyical servers/harddrives and you can configure them and run whatever you want on them
 * [Compare and contrast the 3 different service types](https://azure.microsoft.com/en-ca/overview/types-of-cloud-computing/)
-    - IaaS: for when you need 
+    - IaaS: for when you need control over the OS/software/servers/etc. but don't want to own/maintain the hardware
+    - PaaS: for when you want control over the software but not the underlying OS or hardware
+    - SaaS: when you want to just use software but don't want to maintain/update it
 
 ## Describe the differences between Public, Private and Hybrid cloud models
 
