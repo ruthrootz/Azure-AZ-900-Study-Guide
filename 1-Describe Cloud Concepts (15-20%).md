@@ -30,9 +30,13 @@
 ## Describe the differences between Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS)
 
 * Describe [Platform-as-a-Service (PaaS)](https://azure.microsoft.com/en-ca/overview/what-is-paas/)
+    - the cloud provider runs the infrastructure and servers running in the background, you provide the software/code you want to run
 * Describe [Software-as-a-Service (SaaS)](https://azure.microsoft.com/en-ca/overview/what-is-saas/)
+    - the cloud provider manages the infrastructure and runs the servers and the software for you to use
 * Describe [Infrastructure-as-a-Service (IaaS)](https://azure.microsoft.com/en-ca/overview/what-is-iaas/)
+    - the cloud provider manages the phsyical servers/harddrives and you can configure them and run whatever you want on them
 * [Compare and contrast the 3 different service types](https://azure.microsoft.com/en-ca/overview/types-of-cloud-computing/)
+    - IaaS: for when you need 
 
 ## Describe the differences between Public, Private and Hybrid cloud models
 
