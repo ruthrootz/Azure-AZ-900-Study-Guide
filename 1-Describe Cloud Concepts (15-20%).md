@@ -13,6 +13,7 @@
         - scale up or scale down as needed
         - pay for what you use
         - scale sets add/remove VMs as needed
+        - load balancers make sure any one server doesn't get overloaded with requests
     * Agility
         - quickly deploy new resources
     * Fault Tolerance
