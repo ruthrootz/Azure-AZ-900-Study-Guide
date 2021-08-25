@@ -12,6 +12,7 @@
     * [Elasticity](https://azure.microsoft.com/en-ca/overview/what-is-elastic-computing/)
         - scale up or scale down as needed
         - pay for what you use
+        - scale sets add/remove VMs as needed
     * Agility
         - quickly deploy new resources
     * Fault Tolerance
