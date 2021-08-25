@@ -5,6 +5,8 @@
 * Describe terms such as:
     * [High Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
         - not likely your app becomes unavailable because of high SLA and resource redundancy
+        - Azure promises high-uptime in their SLAs
+        - availability sets and availability zones help with VM uptime
     * Scalability
         - up your CPU processing power, data storage whenever necessary
     * [Elasticity](https://azure.microsoft.com/en-ca/overview/what-is-elastic-computing/)
