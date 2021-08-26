@@ -53,5 +53,7 @@
 * Describe [Hybrid cloud](https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/)
    - the traffice flows on both private and public clouds
 * Compare and contrast the 3 different cloud models
+   - private is for security and internal networking
+   - hybrid is most used
 
 [Return to Table of Contents](README.md)
