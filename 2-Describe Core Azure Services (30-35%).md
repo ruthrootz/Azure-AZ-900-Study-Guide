@@ -3,9 +3,13 @@
 ## Describe the core Azure architectural components
 
 * Describe [Regions](https://azure.microsoft.com/en-ca/global-infrastructure/regions/)
+   - geographic regions (Central US, Northern Europe, etc.)
 * Describe [Availability Zones](https://docs.microsoft.com/en-us/azure/availability-zones/az-overview)
+   - regions are split into avaliability zones
 * Describe [Resource Groups](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/azure-resource-access#what-is-an-azure-resource-group)
+   - a set of logically grouped resources
 * Describe [Azure Resource Manager](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-overview)
+   - gives you access to each resource and its settings/controls/data
 * Describe the benefits and usage of core Azure architectural components
 
 ## Describe some of the core products available in Azure
