@@ -47,8 +47,11 @@
 ## Describe the differences between Public, Private and Hybrid cloud models
 
 * Describe [Public cloud](https://azure.microsoft.com/en-ca/overview/what-is-a-public-cloud/)
+   - the internet, the infrastructure that anyone can use
 * Describe [Private cloud](https://azure.microsoft.com/en-ca/overview/what-is-a-private-cloud/)
+   - a network that is soley used and owned by one entity
 * Describe [Hybrid cloud](https://azure.microsoft.com/en-ca/overview/what-is-hybrid-cloud-computing/)
+   - the traffice flows on both private and public clouds
 * Compare and contrast the 3 different cloud models
 
 [Return to Table of Contents](README.md)
